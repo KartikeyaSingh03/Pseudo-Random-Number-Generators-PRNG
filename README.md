@@ -1,1 +1,1 @@
-# Pseudo-Random-Number-Generators-PRNG-
+# Pseudo-Random-Number-Generators-PRNG
